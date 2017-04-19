@@ -1,4 +1,6 @@
+<?php
 //application/views/news/index.php
+?>
 
 <h2><?php echo $title; ?></h2>
 
